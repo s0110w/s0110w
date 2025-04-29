@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## 😎<about me
+I'm a Web engineer.
+I like tenpura.
+
+## 🫶Tech Stack
+- FrontEnd: React, TypeScript, Material UI
+- BackEnd: Python, Flask,(Go)
+- Tools: Docker
+
 <!--
 **s0110w/s0110w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
