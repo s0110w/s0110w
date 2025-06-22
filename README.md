@@ -2,7 +2,7 @@
 
 ## 😎<about me
 I'm a Web engineer.
-I like tenpura.
+I like tenpura🍤.
 
 ## 🫶Tech Stack
 - FrontEnd: React, TypeScript, Material UI
